@@ -1,5 +1,6 @@
 #na potrzeby GitHub
 
+print("pierwsza poprawka //github class")
 import sys
 import csv
 import operator
